@@ -1,0 +1,67 @@
+/* pages/yiwo/login/login.wxss */
+
+.userhead {
+  margin-top: 120rpx;
+  height: 100rpx;
+  margin-bottom: 160rpx;
+  text-align: center;
+}
+
+.user-icon {
+  width: 120rpx;
+  height: 120rpx;
+  border-radius: 80rpx;
+  vertical-align: middle;
+  background: deepskyblue;
+}
+
+.useritemView {
+  margin-top: 5px;
+  margin-left: 15px;
+  margin-right: 15px;
+  height: 40px;
+  justify-content: flex-start;
+  display: flex;
+  align-items: center;
+}
+
+.usertext {
+  width: 80px;
+  text-align: center;
+}
+
+.userinput {
+  width: 180px;
+  height: 30px;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+}
+
+.loginBtn {
+  margin: 25px;
+  background: deepskyblue;
+  color: white;
+}
+
+.user-rem {
+  margin-top: 10px;
+  margin-left: 25px;
+  margin-right: 25px;
+  display: flex;
+  align-items: center;
+}
+
+.useritemView-image {
+  margin-top: 5px;
+  margin-left: 25px;
+  width: 100px;
+  height: 40px;
+  justify-content: flex-start;
+  display: flex;
+  align-items: center;
+}
+
+.user-image {
+  width: 15px;
+  height: 15px;
+}
